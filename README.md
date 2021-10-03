@@ -20,15 +20,15 @@ Each section has an own README file.
 
 # Our Team : Climate Hackers 
 
-<a href="https://github.com/usmhic">Oussama Hichou: Team Leader</a> 
+<a href="https://github.com/usmhic">Oussama Hichou: </a>Team Leader 
 
-<a href="https://www.facebook.com/acile.sh">Acile Chahboun: Resources Investigator</a>
+<a href="https://www.facebook.com/acile.sh">Acile Chahboun: </a>Resources Investigator
 
-<a href="https://github.com/Innanov">Nouhaila Innan: Data Scientist</a>
+<a href="https://github.com/Innanov">Nouhaila Innan: </a>Data Scientist
 
-<a href="">Akram Bellouk: Hardware Developer</a> 
+<a href="">Akram Bellouk: </a>Hardware Developer 
 
-<a href="">Salma El Barbori: Software Developer</a> 
+<a href="">Salma El Barbori: </a>Software Developer 
 
 This project is upgraded under <a href="https://www.spaceappschallenge.org/">NASA International Space Apps Challenge</a> NASA International Space Apps Challenge (Location: Casablanca <a href="https://2021.spaceappschallenge.org/locations/casablanca/">Location: Casablanca</a>) 
 
