@@ -1,0 +1,1 @@
+We embedded an open source map onto our website that uses space agencies and non space agencies satellite based data such as Esri, USGS | Esri, HERE, Garmin, FAO, NOAA, USGS, EPA | NOAA, National Weather Service, Esri | NASA | so we can detect any fires occuring using it and it was an incredibly helpful and useful tool to put into our website.
