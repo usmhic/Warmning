@@ -1,7 +1,7 @@
 # Warmning
 Warmning is a webapp that generates heat-related risk warnings.
 <p align="center">
-  <img  src="https://user-images.githubusercontent.com/64653897/135748815-7aa61892-426c-4f36-b806-82e87c392577.png">
+  <img width="500" height="500" src="https://user-images.githubusercontent.com/64653897/135748815-7aa61892-426c-4f36-b806-82e87c392577.png">
 </p>
 
 ## :pushpin: About
@@ -27,6 +27,9 @@ In this repository you'll find the following parts:
 Each section has an own README file.
 
 # :star: Our Team : Climate Hackers 
+<p align="center">
+  <img width="400" height="400"  src="https://github.com/usmhic/Warmning/blob/main/Logo/Team%20Logo/1.png">
+</p>
 
 <a href="https://github.com/usmhic">Oussama Hichou: </a>Team Leader 
 
