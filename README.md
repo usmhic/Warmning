@@ -3,6 +3,7 @@ Warmning is a webapp that generates heat-related risk warnings.
 <p align="center">
   <img  src="https://user-images.githubusercontent.com/64653897/135748815-7aa61892-426c-4f36-b806-82e87c392577.png">
 </p>
+
 ## About
 Using Earth Observations (EO) and other models (e.g. Sensors...) together with local crowdsourced data our web app provides warnings (e.g., heat stress intensity duration levels), estimate potential human and environmental/ecological impacts, and provide guidance on mitigation measures that are adopted at the individual and national policy levels. 
 Our web app is also Available as a Computer Software and a Mobile App. 
