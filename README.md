@@ -4,14 +4,14 @@ Warmning is a webapp that generates heat-related risk warnings.
   <img  src="https://user-images.githubusercontent.com/64653897/135748815-7aa61892-426c-4f36-b806-82e87c392577.png">
 </p>
 
-## About
+## :pushpin: About
 Using Earth Observations (EO) and other models (e.g. Sensors...) together with local crowdsourced data our web app provides warnings (e.g., heat stress intensity duration levels), estimate potential human and environmental/ecological impacts, and provide guidance on mitigation measures that are adopted at the individual and national policy levels. 
 Our web app is also Available as a Computer Software and a Mobile App. 
 
 Visit https://dev-warmning.pantheonsite.io/ for more details !
 
 
-## Folder Structure
+## :pushpin: Folder Structure
 In this repository you'll find the following parts: 
 
 | Folder        | Contains      | 
@@ -25,7 +25,7 @@ In this repository you'll find the following parts:
 
 Each section has an own README file.
 
-# Our Team : Climate Hackers 
+# :star: Our Team : Climate Hackers 
 
 <a href="https://github.com/usmhic">Oussama Hichou: </a>Team Leader 
 
@@ -37,7 +37,7 @@ Each section has an own README file.
 
 <a href="https://www.linkedin.com/in/salma-el-barbori">Salma El Barbori: </a>Software Developer 
 
-This project is upgraded under <a href="https://www.spaceappschallenge.org/">NASA International Space Apps Challenge</a> NASA International Space Apps Challenge (Location: Casablanca <a href="https://2021.spaceappschallenge.org/locations/casablanca/">Location: Casablanca</a>) 
+:pushpin: _This project is upgraded under <a href="https://www.spaceappschallenge.org/">NASA International Space Apps Challenge</a> NASA International Space Apps Challenge (Location: Casablanca <a href="https://2021.spaceappschallenge.org/locations/casablanca/">Location: Casablanca</a>)_
 
 
 
