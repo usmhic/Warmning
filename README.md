@@ -22,7 +22,7 @@ Each section has an own README file.
 
 <a href="https://github.com/usmhic">Oussama Hichou: Team Leader</a> 
 
-<a href="">Acile Chahboun: Resources Investigator</a>
+<a href="https://www.facebook.com/acile.sh">Acile Chahboun: Resources Investigator</a>
 
 <a href="https://github.com/Innanov">Nouhaila Innan: Data Scientist</a>
 
