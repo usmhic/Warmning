@@ -35,7 +35,7 @@ Each section has an own README file.
 
 <a href="">Akram Bellouk: </a>Hardware Developer 
 
-<a href="">Salma El Barbori: </a>Software Developer 
+<a href="https://www.linkedin.com/in/salma-el-barbori">Salma El Barbori: </a>Software Developer 
 
 This project is upgraded under <a href="https://www.spaceappschallenge.org/">NASA International Space Apps Challenge</a> NASA International Space Apps Challenge (Location: Casablanca <a href="https://2021.spaceappschallenge.org/locations/casablanca/">Location: Casablanca</a>) 
 
