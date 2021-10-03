@@ -20,8 +20,9 @@ In this repository you'll find the following parts:
 | Data Visualistation     | Graphical representation of data     |
 | Hardware | Contains all details of the hardware solution and code       |
 | WebApp  |  Contains the webapp files code      |
+| LOGO  |  Contains Team Logo and webApp Logo      |
 | Presentation |   a PPT shows our work    |
-| Video |  Video Representation (link)      |
+| Video |  Video Representation (https://www.youtube.com/watch?v=5EuCYBgb5_U)      |
 
 Each section has an own README file.
 
