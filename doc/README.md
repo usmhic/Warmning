@@ -1,4 +1,14 @@
-## :star: We have a prObLeM:
+# Documentation
+
+| Folder/file        | Description      |
+| ------------- |-------------|
+| full_description(unfinished)     | Full project booklet (not finished yet)  |
+| initialworkprocess |  Initial work process by the team |
+| wireframe       | Initiañ wireframe version of the website |
+| pitch       | Solution pitch presenattion |
+| README       | Project brief & folder description |
+
+## :star: We have a PrObLeM:
 Climate Change > Heat > Social, Economical, Environmental… Problems > Lack of Action Plans
 
 Learn more at: https://2021.spaceappschallenge.org/challenges/statements/warning-things-are-heating-up/details
@@ -25,8 +35,6 @@ Estimate potential human and environmental/ecological impacts.
 Guidance on mitigation measures that could be adopted at the individual and state/national policy levels.
 
 ### :pushpin: Like this
-
-Laptop/smartphone apps (webapp , android/windows app):
 
 Generate a heat stress risk warning level (Red, Yellow, Green) for a selected area (e.g., city, county, country).
 

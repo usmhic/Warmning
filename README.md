@@ -16,7 +16,7 @@ Our web app is also Available as Mobile App.
 ## :pushpin: Structure
 Repository Structure:
 
-| Folder        | Contains      |
+| Folder        | Description      |
 | ------------- |-------------|
 | data       | Various types of collected data  |
 | build     | Graphical representation of the collected and analyzed data  |
