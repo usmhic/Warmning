@@ -23,8 +23,6 @@ We might have a solution... > https://warmning.co/
   <img width="700" height="235" src="https://github.com/usmhic/Warmning/blob/main/res/img/warmnig_logo/widetrans.png">
 </p>
 
-Disclaimer: This project is currently under construction. Some features might not be fully functional.
-
 ### :pushpin: Using this
 Earth Observations (EO), Local Crowdsourced Data, Hardware (Drones, Sensors...) along with other open source data.
 
