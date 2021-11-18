@@ -54,7 +54,7 @@ Simple tabular (quantitative) and graphical displays with brief explanations are
 
 Details can be provided as appended or linked cross-references.
 
-### :pushpin: To add
+### :pushpin: Add this
 
 Quantum computing and Machine Learning use for fast and accurate data analysis.
 
