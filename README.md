@@ -13,6 +13,9 @@ Disclaimer: This project is currently under construction. Some features might no
 Using Earth Observations (EO) and other models (e.g. Sensors...) together with local crowdsourced data our webapp provide warnings (e.g., heat stress intensity duration levels, potentiel fire), estimate potential human and environmental/ecological impacts, and provide guidance on mitigation measures that are adopted at the individual and national policy levels.
 Our web app is also Available as Mobile App.
 
+Project demo (30s): https://youtu.be/5EuCYBgb5_U
+Project pitch (~5min): https://youtu.be/TXBckrKXFsk
+
 ## :pushpin: Structure
 Repository Structure:
 
