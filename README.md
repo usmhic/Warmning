@@ -30,10 +30,7 @@ Each section has an own README file.
 ## :star: Team
 <p align="center">
   <img width="700" height="235" src="https://github.com/usmhic/Warmning/blob/main/res/img/team_logo/widetrans.png">
-</p>
-<a href="https://www.facebook.com/theclimatehackers">Facebook: </a><i class="fab fa-facebook-square"></i>
-<a href="https://www.instagram.com/theclimatehackers/">Instagram: </a><i class="fab fa-instagram-square"></i>
-
+</p
 
 <a href="https://github.com/usmhic">Oussama Hichou: </a>Team Leader
 
@@ -46,3 +43,6 @@ Each section has an own README file.
 <a href="https://www.linkedin.com/in/salma-el-barbori">Salma El Barbori: </a>Software Developer
 
 This project was developed in response to <a href="https://2021.spaceappschallenge.org/challenges/statements/warning-things-are-heating-up">NASA International Space Apps Challenge</a> / <a href="https://2021.spaceappschallenge.org/locations/casablanca/">Casablanca Location</a>
+
+Follow us on <a href="https://www.facebook.com/theclimatehackers">Facebook</a> and <a href="https://www.instagram.com/theclimatehackers/">Instagram</a><i class="fab fa-instagram-square"></i>
+Contact us via <a href="mailto:theclimatehackers@gmail.com">email</a>
