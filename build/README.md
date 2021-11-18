@@ -27,4 +27,4 @@ Energy Supply Shortages.
 
 Show guidance on mitigation measures that could be adopted at the individual and state/national policy levels.
 
-Provide Notification of: Places to avoid, Periods to avoid the sun via mobile app, SMS or Email.
+Provide Notification of places to avoid during certain periods of the day via mobile app, SMS or Email.
