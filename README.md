@@ -1,7 +1,7 @@
 # Warmning
 https://warmning.co/ is a webapp that generates heat-related risk warnings.
 <p align="center">
-  <img width="500" height="500" src="https://github.com/usmhic/Warmning/res/img/warmnig_logo/widetrans.png">
+  <img width="1000" height="335" src="https://github.com/usmhic/Warmning/blob/main/res/img/warmnig_logo/widetrans.png">
 </p>
 
 ## :pushpin: About
@@ -28,7 +28,7 @@ Each section has an own README file.
 
 # :star: Our Team : Climate Hackers
 <p align="center">
-  <img width="400" height="400"  src="https://github.com/usmhic/Warmning/blob/main/Logo/Team%20Logo/1.png">
+  <img width="400" height="400"  src="https://github.com/usmhic/Warmning/blob/main/res/img/team_logo/pngwhite.png">
 </p>
 
 <a href="https://github.com/usmhic">Oussama Hichou: </a>Team Leader
