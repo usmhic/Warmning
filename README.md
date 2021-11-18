@@ -28,7 +28,7 @@ Repository Structure:
 
 Each section has an own README file.
 
-## :star: Meet the Team : Climate Hackers
+## :star: Climate Hackers
 <p align="center">
   <img width="700" height="235" src="https://github.com/usmhic/Warmning/blob/main/res/img/team_logo/widetrans.png">
 </p>
