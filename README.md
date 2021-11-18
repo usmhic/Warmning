@@ -18,10 +18,10 @@ Repository Structure:
 
 | Folder        | Description      |
 | ------------- |-------------|
-| data       | Various types of collected data  |
-| src     | Source code of Graphical representation of the collected and analyzed data  |
+| data       | Collected data  |
+| src     | Source code   |
 | res  |  Static resources      |
-| sample  |  Prototypes and final work demo    |
+| sample  |  Work demo   |
 | doc |   Documentation    |
 | README |  Introduction     |
 
