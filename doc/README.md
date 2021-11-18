@@ -8,7 +8,11 @@
 | pitch       | Solution pitch presenattion |
 | README       | Project brief & folder description |
 
-Project demo (30s): https://youtu.be/5EuCYBgb5_U / Project pitch (~5min): https://youtu.be/TXBckrKXFsk
+Project demo (30s): https://youtu.be/5EuCYBgb5_U
+
+Project pitch (~5min): https://youtu.be/TXBckrKXFsk
+
+Pitch Slides: https://www.canva.com/design/DAErp9MxNKA/view
 
 ## :star: We have a PrObLeM:
 Climate Change > Heat > Social, Economical, Environmental… Problems > Lack of Action Plans
