@@ -31,8 +31,9 @@ Each section has an own README file.
 <p align="center">
   <img width="700" height="235" src="https://github.com/usmhic/Warmning/blob/main/res/img/team_logo/widetrans.png">
 </p>
-<a href="https://www.facebook.com/theclimatehackers">Facebook: </a>Software Developer
-<a href="https://www.instagram.com/theclimatehackers/">Instagram: </a>Software Developer
+<a href="https://www.facebook.com/theclimatehackers">Facebook: </a><i class="fab fa-facebook-square"></i>
+<a href="https://www.instagram.com/theclimatehackers/">Instagram: </a><i class="fab fa-instagram-square"></i>
+
 
 <a href="https://github.com/usmhic">Oussama Hichou: </a>Team Leader
 
