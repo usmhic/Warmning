@@ -10,8 +10,8 @@ Visit https://warmning.co/ for more details!
 Disclaimer: This project is currently under construction. Some features might not be fully functional. And was developed in response to <a href="https://2021.spaceappschallenge.org/challenges/statements/warning-things-are-heating-up">NASA International Space Apps Challenge</a> / <a href="https://2021.spaceappschallenge.org/locations/casablanca/">Casablanca</a>
 
 ## :pushpin: About
-Using Earth Observations (EO) and other models (e.g. Sensors...) together with local crowdsourced data our webapp provide warnings (e.g., heat stress intensity duration levels, potentiel fire), estimate potential human and environmental/ecological impacts, and provide guidance on mitigation measures that are adopted at the individual and national policy levels.
-Our web app is also Available as a Mobile App.
+Using Earth Observations (EO) and other models (e.g. Sensors...) together with local crowdsourced data our webapp will provide warnings (e.g., heat stress intensity duration levels, potentiel fire), estimate potential human and environmental/ecological impacts, and provide guidance on mitigation measures that are adopted at the individual and national policy levels.
+Our web app is will also be available as a Mobile App.
 
 Project demo (30s): https://youtu.be/5EuCYBgb5_U / Project pitch (~5min): https://youtu.be/TXBckrKXFsk
 

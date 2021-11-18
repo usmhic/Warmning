@@ -7,10 +7,10 @@
 | hardware       | ... |
 | README       | Collected data brief & folder description |
 
-When collecting
+We focused on 3 types of data
 
 ### :pushpin: Hardware
-
+Our hardware data was collected
 
 ### :pushpin: Crowdsourced
 
