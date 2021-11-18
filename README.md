@@ -1,15 +1,17 @@
 # Warmning
-https://warmning.co/ or https://warmning.earth/ is a webapp that generates heat-related risk warnings, and provide guidance in an easy interactive way.
+Warmning is a webapp that generates heat-related risk warnings, and provide guidance in an easy interactive way.
+Visit https://warmning.co/ for more details!
+
 <p align="center">
   <img width="700" height="235" src="https://github.com/usmhic/Warmning/blob/main/res/img/warmnig_logo/widetrans.png">
 </p>
+
 Disclaimer: This Project is currently under construction. Some features might not be fully functional.
+
 
 ## :pushpin: About the Project
 Using Earth Observations (EO) and other models (e.g. Sensors...) together with local crowdsourced data our web app provides warnings (e.g., heat stress intensity duration levels), estimate potential human and environmental/ecological impacts, and provide guidance on mitigation measures that are adopted at the individual and national policy levels.
 Our web app is also Available as a Computer Software and a Mobile App.
-
-Visit https://warmning.co/  for more details !
 
 
 
