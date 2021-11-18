@@ -4,7 +4,7 @@
 | ------------- |-------------|
 | full_description(unfinished)     | Full project booklet (not finished yet)  |
 | initialworkprocess |  Initial work process by the team |
-| wireframe       | Initiañ wireframe version of the website |
+| wireframe       | Initial wireframe version of the website |
 | pitch       | Solution pitch presenattion |
 | README       | Project brief & folder description |
 
@@ -50,12 +50,11 @@ Simple tabular (quantitative) and graphical displays with brief explanations are
 
 Details can be provided as appended or linked cross-references
 
-### :pushpin: Consider this
+### :pushpin: To add:
 
-Simple tabular (quantitative) and graphical displays with brief explanations are desirable.
+Quantum computing and Machine Learning use for fast and accurate data analysis.
 
-Details can be provided as appended or linked cross-references
-
+Business model to finance the projects
 
 ## :star: by Climate Hackers
 <p align="center">
