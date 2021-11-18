@@ -27,11 +27,14 @@ Repository Structure:
 | doc |   Documentation    |
 | README |  Introduction     |
 
-1. Collect various types of data. (source code can be found in data)
-2. Analyze, mix and visualize the data. (source code can be found in data)
-3. Code the data to be shown user interface. (source code can be found in src)
+## :pushpin: Process
 
-Each section has an own README file.
+1. Collect various types of data: the source code and the details of what and how the data was collected can be found in data.
+2. Analyze, mix and visualize the data: the source code and the details of how the data analyze, mixed and visualized can also be found in data.
+3. Code the data to be shown in the user interface: the source code and the details of how the data was coded can be found in src.
+4. The user interface demo can be found detailed in sample or simply visit https://warmning.co/
+
+Each subfolder has it own README file.
 
 ## :star: Team
 Meet the team:

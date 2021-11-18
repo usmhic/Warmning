@@ -7,12 +7,13 @@
 | hardware       | ... |
 | README       | Collected data brief & folder description |
 
+When collecting
+
+### :pushpin: Hardware
+
+
 ### :pushpin: Crowdsourced
 
 
 
 ### :pushpin: Earth Observations
-
-
-
-### :pushpin: Hardware
