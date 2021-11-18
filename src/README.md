@@ -2,7 +2,7 @@
 
 | Folder/file        | Description      |
 | ------------- |-------------|
-| README       | Build brief & folder description |
+| README       | Source Code brief & folder description |
 
 ### :pushpin: Interactive map with multiple layers
 

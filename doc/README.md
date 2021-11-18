@@ -55,10 +55,3 @@ Details can be provided as appended or linked cross-references.
 Quantum computing and Machine Learning use for fast and accurate data analysis.
 
 Business model to finance the projects.
-
-## :star: by Climate Hackers
-<p align="center">
-  <img width="700" height="235" src="https://github.com/usmhic/Warmning/blob/main/res/img/team_logo/widetrans.png">
-</p>
-
-This project was developed in response to <a href="https://2021.spaceappschallenge.org/challenges/statements/warning-things-are-heating-up">NASA International Space Apps Challenge</a> / <a href="https://2021.spaceappschallenge.org/locations/casablanca/">Casablanca Location</a>
