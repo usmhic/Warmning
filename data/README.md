@@ -10,11 +10,11 @@
 We focused on 3 types of data
 
 ### :pushpin: Hardware
-<p align="left">
-  <img width="700" height="235" src="https://github.com/usmhic/Warmning/blob/main/res/img/warmnig_logo/widetrans.png">
+<p align="right">
+  <img width="350" height="600" src="https://github.com/usmhic/Warmning/blob/main/res/img/sensor_prototype/sensor_1.jpg">
 </p>
-<p align="center">
-  <img width="700" height="235" src="https://github.com/usmhic/Warmning/blob/main/res/img/warmnig_logo/widetrans.png">
+<p align="left">
+  sensor
 </p>
 
 ### :pushpin: Crowdsourced
