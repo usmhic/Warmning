@@ -5,7 +5,7 @@
 | full_description(unfinished)     | Full project booklet (not finished yet)  |
 | initialworkprocess |  Initial work process by the team |
 | wireframe       | Initial wireframe version of the website |
-| pitch       | Solution pitch presenattion |
+| pitch       | Project pitch slides |
 | README       | Project brief & folder description |
 
 Project demo (30s): https://youtu.be/5EuCYBgb5_U
