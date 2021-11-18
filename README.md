@@ -8,14 +8,11 @@ Visit https://warmning.co/ for more details!
 
 Disclaimer: This Project is currently under construction. Some features might not be fully functional.
 
-
-## :pushpin: About the Project
+## :pushpin: About
 Using Earth Observations (EO) and other models (e.g. Sensors...) together with local crowdsourced data our web app provides warnings (e.g., heat stress intensity duration levels), estimate potential human and environmental/ecological impacts, and provide guidance on mitigation measures that are adopted at the individual and national policy levels.
 Our web app is also Available as a Computer Software and a Mobile App.
 
-
-
-## :pushpin: Repo Structure
+## :pushpin: Structure
 Repository Structure:
 
 | Folder        | Contains      |
@@ -30,8 +27,7 @@ Repository Structure:
 
 Each section has an own README file.
 
-
-# :star: Meet the Team : Climate Hackers
+## :star: Meet the Team : Climate Hackers
 <p align="center">
   <img width="400" height="400"  src="https://github.com/usmhic/Warmning/blob/main/res/img/team_logo/pngwhite.png">
 </p>
@@ -45,6 +41,5 @@ Each section has an own README file.
 <a href="">Akram Bellouk: </a>Hardware Developer
 
 <a href="https://www.linkedin.com/in/salma-el-barbori">Salma El Barbori: </a>Software Developer
-
 
 :star: _This project is upgraded under <a href="https://www.spaceappschallenge.org/">NASA International Space Apps Challenge</a> NASA International Space Apps Challenge (Location: Casablanca <a href="https://2021.spaceappschallenge.org/locations/casablanca/">Location: Casablanca</a>)_
