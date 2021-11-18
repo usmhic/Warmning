@@ -45,5 +45,4 @@ Each section has an own README file.
 --------
 Follow us on <a href="https://www.facebook.com/theclimatehackers">Facebook</a> and <a href="https://www.instagram.com/theclimatehackers/">Instagram</a><i class="fab fa-instagram-square"></i> /
  Contact us via <a href="mailto:theclimatehackers@gmail.com">email</a>.
---------
 This project was developed in response to <a href="https://2021.spaceappschallenge.org/challenges/statements/warning-things-are-heating-up">NASA International Space Apps Challenge</a> / <a href="https://2021.spaceappschallenge.org/locations/casablanca/">Casablanca Location</a>
