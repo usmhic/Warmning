@@ -44,4 +44,4 @@ Each section has an own README file.
 <a href="https://www.linkedin.com/in/salma-el-barbori">Salma El Barbori: </a>Software Developer
 
 
-This project was and still is developed in response to <a href="https://2021.spaceappschallenge.org/challenges/statements/warning-things-are-heating-up">NASA International Space Apps Challenge</a> (Location: Casablanca <a href="https://2021.spaceappschallenge.org/locations/casablanca/">)
+This project was and still is developed in response to <a href="https://2021.spaceappschallenge.org/challenges/statements/warning-things-are-heating-up">NASA International Space Apps Challenge</a> <a href="https://2021.spaceappschallenge.org/locations/casablanca/">Location: Casablanca</a>
