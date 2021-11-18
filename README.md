@@ -21,11 +21,15 @@ Repository Structure:
 | Folder        | Description      |
 | ------------- |-------------|
 | data       | Collected data  |
-| src     | Source code   |
+| src     | Coded data   |
 | res  |  Static resources      |
 | sample  |  Work demo   |
 | doc |   Documentation    |
 | README |  Introduction     |
+
+1. Collect various types of data. (source code can be found in data)
+2. Analyze, collide and visualize the data. (source code can be found in data)
+3. Code the data to be shown user interface. (source code can be found in src) 
 
 Each section has an own README file.
 
