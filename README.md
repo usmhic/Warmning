@@ -7,7 +7,7 @@ Visit https://warmning.co/ for more details!
   <img width="700" height="235" src="https://github.com/usmhic/Warmning/blob/main/res/img/warmnig_logo/widetrans.png">
 </p>
 
-Disclaimer: This project is currently under construction. Some features might not be fully functional.
+Disclaimer: This project is currently under construction. Some features might not be fully functional. And was developed in response to <a href="https://2021.spaceappschallenge.org/challenges/statements/warning-things-are-heating-up">NASA International Space Apps Challenge</a> / <a href="https://2021.spaceappschallenge.org/locations/casablanca/">Casablanca</a>
 
 ## :pushpin: About
 Using Earth Observations (EO) and other models (e.g. Sensors...) together with local crowdsourced data our webapp provide warnings (e.g., heat stress intensity duration levels, potentiel fire), estimate potential human and environmental/ecological impacts, and provide guidance on mitigation measures that are adopted at the individual and national policy levels.
@@ -46,6 +46,3 @@ Each section has an own README file.
 
 Follow us on <a href="https://www.facebook.com/theclimatehackers">Facebook</a> and <a href="https://www.instagram.com/theclimatehackers/">Instagram</a><i class="fab fa-instagram-square"></i> /
  Contact us via <a href="mailto:theclimatehackers@gmail.com">email</a>.
-
---------
-This project was developed in response to <a href="https://2021.spaceappschallenge.org/challenges/statements/warning-things-are-heating-up">NASA International Space Apps Challenge</a> / <a href="https://2021.spaceappschallenge.org/locations/casablanca/">Casablanca Location</a>
