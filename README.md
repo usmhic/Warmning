@@ -18,11 +18,11 @@ Repository Structure:
 
 | Folder        | Contains      |
 | ------------- |-------------|
-| data       | Different Data Collected |
-| build     | Graphical representation of data     |
-| src | Contains all code     |
-| res  |  Contains all static Resources      |
-| sample  |  Contains  sample links     |
+| data       | Various types of collected data  |
+| build     | Graphical representation of data the data collected   |
+| src | Source code  |
+| res  |  Static resources      |
+| sample  |  Prototypes and final work demo    |
 | doc |   Documentation    |
 | README |  Introduction     |
 
@@ -44,4 +44,4 @@ Each section has an own README file.
 <a href="https://www.linkedin.com/in/salma-el-barbori">Salma El Barbori: </a>Software Developer
 
 
-This project was and still is developed in response to <a href="https://2021.spaceappschallenge.org/challenges/statements/warning-things-are-heating-up">NASA International Space Apps Challenge</a> / <a href="https://2021.spaceappschallenge.org/locations/casablanca/">Casablanca Location</a>
+This project was developed in response to <a href="https://2021.spaceappschallenge.org/challenges/statements/warning-things-are-heating-up">NASA International Space Apps Challenge</a> / <a href="https://2021.spaceappschallenge.org/locations/casablanca/">Casablanca Location</a>
