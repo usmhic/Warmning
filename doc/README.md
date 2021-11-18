@@ -1,5 +1,8 @@
 ## :star: We have a prObLeM:
-Climate Change > Heat > Social, Economical, Environmental… Problems > Lack of Action Plans >  DING DING!!! We might have a solution... > https://warmning.co/
+Climate Change > Heat > Social, Economical, Environmental… Problems > Lack of Action Plans
+Learn more: https://2021.spaceappschallenge.org/challenges/statements/warning-things-are-heating-up/details
+
+DING DING!!! We might have a solution... > https://warmning.co/
 
 <p align="center">
   <img width="700" height="235" src="https://github.com/usmhic/Warmning/blob/main/res/img/warmnig_logo/widetrans.png">
