@@ -1,5 +1,5 @@
 # Warmning
-Warmning is a webapp that generates heat-related risk warnings through notifications and interactive maps. Also provide guidance in an easy interactive way.
+<a href="https://www.warmning.co">Warmning</a> is a webapp that generates heat-related risk warnings through notifications and interactive maps. Also provide guidance in an easy interactive way.
 
 Visit https://warmning.co/ for more details!
 
