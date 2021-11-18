@@ -1,7 +1,7 @@
 # Warmning
 https://warmning.co/ is a webapp that generates heat-related risk warnings.
 <p align="center">
-  <img width="500" height="500" src="https://github.com/usmhic/Warmning/res/img/warmnig_logo/pngwhite.png">
+  <img width="500" height="500" src="https://github.com/usmhic/Warmning/res/img/warmnig_logo/widetrans.png">
 </p>
 
 ## :pushpin: About
