@@ -32,9 +32,14 @@ Each section has an own README file.
   <img width="700" height="235" src="https://github.com/usmhic/Warmning/blob/main/res/img/team_logo/widetrans.png">
 </p>
 <a href="https://github.com/usmhic">Oussama Hichou: </a>Team Leader
+
 <a href="https://www.facebook.com/acile.sh">Acile Chahboun: </a>Resources Investigator
+
 <a href="https://github.com/Innanov">Nouhaila Innan: </a>Data Scientist
+
 <a href="">Akram Bellouk: </a>Hardware Developer
+
 <a href="https://www.linkedin.com/in/salma-el-barbori">Salma El Barbori: </a>Software Developer
 
-:star: _This project is upgraded under <a href="https://www.spaceappschallenge.org/">NASA International Space Apps Challenge</a> NASA International Space Apps Challenge (Location: Casablanca <a href="https://2021.spaceappschallenge.org/locations/casablanca/">Location: Casablanca</a>)_
+
+This project was and still developed in response to <a href="https://2021.spaceappschallenge.org/challenges/statements/warning-things-are-heating-up NASA International Space Apps Challenge</a (Location: Casablanca <a href="https://2021.spaceappschallenge.org/locations/casablanca/">Location: Casablanca</a>)_
