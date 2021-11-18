@@ -48,13 +48,13 @@ Require data that is readily available to the user before a risk level can be es
 
 Simple tabular (quantitative) and graphical displays with brief explanations are desirable.
 
-Details can be provided as appended or linked cross-references
+Details can be provided as appended or linked cross-references.
 
 ### :pushpin: To add:
 
 Quantum computing and Machine Learning use for fast and accurate data analysis.
 
-Business model to finance the projects
+Business model to finance the projects.
 
 ## :star: by Climate Hackers
 <p align="center">
