@@ -13,7 +13,7 @@ This repository contains the type of data gathered, the process of getting, anal
 In order to show data, we need first to gather data. We focused on 3 types of data providing tools, along with other models that will help analyze, visualize and improve the data.
 
 ### :pushpin: <a href="https://github.com/usmhic/Warmning/blob/main/data/hardware">Earth Observations</a>
-We managed to get multiple types of live and real near-time open-source data obtained from satellite images offered by different space agencies (NASA, ESA, JAXA...) and others organizations that's hardly available and comprehended by average users.
+We managed to get multiple types of live and near real-time open-source data obtained from satellite images offered by different space agencies (NASA, ESA, JAXA...) and others organizations that's hardly available and comprehended by average users.
 
 Learn more about the process and check few examples in the <a href="https://github.com/usmhic/Warmning/blob/main/data/hardware">earth_observations</a> folder
 
