@@ -30,7 +30,7 @@ Repository Structure:
 ## :pushpin: Process
 
 1. Collect various types of data: the source code and the details of what and how the data was collected can be found in <a href="https://github.com/usmhic/Warmning/blob/main/data/">data</a>.
-2. Analyze, mix and visualize the data: the source code and the details of how the data was analyzed, mixed and visualized can also be found in <a href="https://github.com/usmhic/Warmning/blob/main/data">data</a>.
+2. Analyze, mix and visualize the data: the source code and the details of how the data was analyzed, mixed and visualized can also be found in both <a href="https://github.com/usmhic/Warmning/blob/main/data">data</a> and <a href="https://github.com/usmhic/Warmning/blob/main/data/">data</a>base on the datatype.
 3. Code the data to be shown in the user interface: the source code and the details of how the data was coded can be found in a <a href="https://github.com/usmhic/Warmning/blob/main/src">src</a>.
 4. The user interface demo can be found detailed in <a href="https://github.com/usmhic/Warmning/blob/main/src">sample</a> or simply visit https://warmning.co/
 
