@@ -18,7 +18,7 @@ We managed to get multiple types of old, live and near real-time open-source dat
 Learn more about the process and check few examples in the <a href="https://github.com/usmhic/Warmning/blob/main/data/hardware">earth_observations</a> folder
 
 ### :pushpin: <a href="https://github.com/usmhic/Warmning/blob/main/data/hardware">Crowdsourced</a>
-Since a lot of people nowadays use social media to get their daily dose of news and contribute indirectly. For crowdsourced data we focused mainly on social networks by applying to different developing tools offered by some social media companies (Facebook, Twitter...) and using data digging tools (Javer...) helped us get quick information before it's officially reported using carefully the right machine learning algorithms. This will help  improve our final data afterwards.
+Since a lot of people nowadays use social media to get their daily dose of news and contribute indirectly. For crowdsourced data we focused mainly on social networks by applying to different developing tools offered by some social media companies (Facebook, Twitter...) and using data digging tools (Javer...). We were able get quick information before it's officially reported using carefully the right machine learning algorithms. This will help  improve our final data afterwards.
 
 Learn more about the process and check few examples in the <a href="https://github.com/usmhic/Warmning/blob/main/data/hardware">crowdsourced</a> folder
 
