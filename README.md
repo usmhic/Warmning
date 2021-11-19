@@ -15,6 +15,9 @@ Our web app is will also be available as a Mobile App.
 
 Project demo (30s): https://youtu.be/5EuCYBgb5_U / Project pitch (~5min): https://youtu.be/TXBckrKXFsk
 
+More details can be found in the subfolders listed bellow.
+
+
 ## :pushpin: Structure
 Repository Structure:
 
@@ -27,6 +30,8 @@ Repository Structure:
 | doc |   Documentation    |
 | README |  Introduction     |
 
+Each subfolder has it own README.
+
 ## :pushpin: Process
 
 1. Collect various types of data: the source code and the details of what and how the data was collected can be found in <a href="https://github.com/usmhic/Warmning/blob/main/data/">data</a>.
@@ -34,7 +39,6 @@ Repository Structure:
 3. Code the data to be shown in the user interface: the source code and the details of how the data was coded can be found in a <a href="https://github.com/usmhic/Warmning/blob/main/src">src</a>.
 4. The user interface demo can be found detailed in <a href="https://github.com/usmhic/Warmning/blob/main/sample">sample</a> or simply visit https://warmning.co/
 
-Each subfolder has it own README file.
 
 ## :star: Team
 Meet the team:
