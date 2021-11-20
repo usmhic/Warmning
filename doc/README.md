@@ -60,8 +60,11 @@ Quantum computing and Machine Learning use for fast and accurate data analysis.
 
 Business model to finance the projects.
 
-## :star: Our Solution will Provide
+<p align="center">
+  <img width="700" height="235" src="https://github.com/usmhic/Warmning/blob/main/res/img/team_logo/widetrans.png">
+</p>
 
+## :star: Our Solution will Provide
 
 
 ### :pushpin: Interactive map with multiple layers
