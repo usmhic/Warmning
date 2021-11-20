@@ -5,8 +5,8 @@
 | README       | Sample brief & folder description |
 
 # Visit https://warmning.co/ for website demo
-
 # Visit https://warmning.co/apps/report_emergency/First_Time.html to report an emergency demo
+(Just click the button at the very edge bellow without filling the text space if needed)
 
 ### :pushpin: Interactive map with multiple layers
 
