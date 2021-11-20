@@ -4,6 +4,10 @@
 | ------------- |-------------|
 | README       | Sample brief & folder description |
 
+# Visit https://warmning.co/ for website demo
+
+# Visit https://warmning.co/apps/report_emergency/First_Time.html to report an emergency demo
+
 ### :pushpin: Interactive map with multiple layers
 
 Show Heat stress (equation) risk warning level (Red, Yellow, Green) for a selected area (e.g., city, county, country)
