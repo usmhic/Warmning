@@ -1,34 +1,9 @@
 # Work Demonstration
 
-| Folder/file        | Description      |
-| ------------- |-------------|
-| README       | Sample brief & folder description |
 
-# Visit https://warmning.co/ for website demo
-# Visit https://warmning.co/apps/report_emergency/First_Time.html to report an emergency demo
+1. Visit https://warmning.co/ for website demo
+2. Visit https://warmning.co/apps/report_emergency/First_Time.html to report an emergency demo
 (Just click the button at the very edge bellow without filling the text space if needed)
-
-### :pushpin: Interactive map with multiple layers
-
-Show Heat stress (equation) risk warning level (Red, Yellow, Green) for a selected area (e.g., city, county, country)
-
-Intensity duration levels… using earth observations, crowdsourcing and hardware.
-
-Potential human and environmental/ecological impacts
-Potential forest fire layer + Active fire (Red: Actual fire, Yellow: Potential fire) using previous and h (Sensors, Drones...)
-
-Potential crop damage.
-
-Potential Water Shortage.
-
-Energy Supply Shortages.
-
-Potential Air pollution.
-
-Energy Supply Shortages.
-
-### :pushpin: Interactive Emergency Guidance and a Notification System
-
-Show guidance on mitigation measures that could be adopted at the individual and state/national policy levels.
-
-Provide Notification of places to avoid during certain periods of the day via mobile app, SMS or Email.
+3. Visit to explore the interactive https://warmning.co/apps/interactive_map.
+4. Watch Project demo (30s) at https://youtu.be/5EuCYBgb5_U
+5. watch Project pitch (~5min) at https://youtu.be/TXBckrKXFsk
