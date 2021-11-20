@@ -59,3 +59,17 @@ Details can be provided as appended or linked cross-references.
 Quantum computing and Machine Learning use for fast and accurate data analysis.
 
 Business model to finance the projects.
+
+## :star: Our Solution will Provide
+
+### :pushpin: Interactive map with multiple layers
+1. Show Heat stress (equation) risk warning level (Red, Yellow, Green) for a selected area (e.g., city, county, country)
+Intensity duration levels… using earth observations, crowdsourcing and hardware.
+2. Potential human and environmental/ecological impacts
+Potential forest fire layer + Active fire (Red: Actual fire, Yellow: Potential fire) using previous and h (Sensors, Drones...)
+3. Potential crop damage, Water and Energy Supply Shortages
+4. Potential Air pollution.
+
+### :pushpin: Interactive Emergency Guidance and a Notification System
+1. Show guidance on mitigation measures that could be adopted at the individual and state/national policy levels.
+2. Provide Notification of places to avoid during certain periods of the day via mobile app, SMS or Email.
