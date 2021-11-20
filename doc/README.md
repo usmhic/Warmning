@@ -62,6 +62,8 @@ Business model to finance the projects.
 
 ## :star: Our Solution will Provide
 
+
+
 ### :pushpin: Interactive map with multiple layers
 1. Show Heat stress (equation) risk warning level (Red, Yellow, Green) for a selected area (e.g., city, county, country)
 Intensity duration levels… using earth observations, crowdsourcing and hardware.
