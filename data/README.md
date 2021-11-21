@@ -12,6 +12,12 @@ This repository contains the type of data gathered, the process of getting, anal
 
 In order to show data, we need first to gather data. We focused on 3 types of data providing tools, along with other models that will help analyze, visualize and improve the data.
 
+### :star: <a href="https://github.com/usmhic/Warmning/blob/main/data/hardware">Hardware</a>
+This type of data is detected manually via sensors, drones, cameras. We managed to work on a simple prototype that detects temperature level using a temperature sensor and humidity level using a humidity sensor. Then calculate the heat stress using based on the heat stress index mathematical model.
+The continues read data is sent to a near by device via Bluetooth or Wifi. Then uploaded to our servers to be analysed, visualized and mixed with other data.
+
+Learn more about the process and check few examples in the <a href="https://github.com/usmhic/Warmning/blob/main/data/hardware">hardware</a> folder.
+
 ### :pushpin: <a href="https://github.com/usmhic/Warmning/blob/main/data/hardware">Earth Observations</a>
 We managed to get multiple types of old, live and near real-time open-source data obtained from satellite images offered by different space agencies (NASA, ESA, JAXA...) and others organizations that's hardly available and comprehended by average users.
 
@@ -20,10 +26,4 @@ Learn more about the process and check few examples in the <a href="https://gith
 ### :pushpin: <a href="https://github.com/usmhic/Warmning/blob/main/data/hardware">Crowdsourced</a>
 Since a lot of people nowadays use social media to get their daily dose of news and contribute indirectly. For crowdsourced data we focused mainly on social networks by applying to different developing tools offered by some social media companies (Facebook, Twitter...) and using data digging tools (Javer...). We were able get quick information before it's officially reported using carefully the right machine learning algorithms. This will help  improve our final data afterwards.
 
-Learn more about the process and check few examples in the <a href="https://github.com/usmhic/Warmning/blob/main/data/hardware">crowdsourced</a> folder
-
-### :pushpin: <a href="https://github.com/usmhic/Warmning/blob/main/data/hardware">Hardware</a>
-This type of data is detected manually via sensors, drones, cameras. We managed to work on a simple prototype that detects temperature level using a temperature sensor and humidity level using a humidity sensor. Then calculate the heat stress using based on the heat stress index mathematical model.
-The continues read data is sent to a near by device via Bluetooth or Wifi. Then uploaded to our servers to be analysed, visualized and mixed with other data.
-
-Learn more about the process and check few examples in the <a href="https://github.com/usmhic/Warmning/blob/main/data/hardware">hardware</a> folder
+Learn more about the process and check few examples in the <a href="https://github.com/usmhic/Warmning/blob/main/data/hardware">crowdsourced</a> folder.
