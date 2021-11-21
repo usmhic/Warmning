@@ -9,5 +9,5 @@ All the data gathered from hardware will be sent to our servers to be analyzed a
 Learn more at <a href="https://github.com/usmhic/Warmning/blob/main/data/hardware/other"> data/other</a>.
 
 <p align="center">
-  <img width="800" height="400" src="https://github.com/usmhic/Warmning/blob/main/res/img/sensor_prototype/sensor.jpg">
+  <img width="800" height="400" src="https://github.com/usmhic/Warmning/blob/main/res/img/sensor_prototype/sensor.png">
 </p
