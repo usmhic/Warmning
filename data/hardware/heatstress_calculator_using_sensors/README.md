@@ -8,7 +8,7 @@
 </p>
 2. Mathematical Model:
 <p align="center">
-  <img width="800" height="450" src="https://github.com/usmhic/Warmning/blob/main/res/img/sensor_prototype/heat_index_formula.jpg">
+  <img width="800" height="450" src="https://github.com/usmhic/Warmning/blob/main/res/img/sensor_prototype/heat_index_formula.png">
 </p>
 
 Learn more at https://en.wikipedia.org/wiki/Heat_index.
