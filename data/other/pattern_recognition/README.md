@@ -20,7 +20,7 @@ There are always at least two kinds of information required: (a) statistical dat
 
 ### 3. Preliminary (exploratory) analysis:
 Always start by graphing the data. Are there consistent patterns? Is there a significant trend? Is seasonality important? Are there any outliers in the data that need to be explained by those with expert knowledge?
-All this is explained in detail in this folder: https://github.com/Innanov/Warmning/tree/main/data/other/graphical_visualization
+All this is explained in detail in this folder: https://github.com/Innanov/Warmning/blob/main/data/other/graphical_visualization
 
 ### 4. Choosing and fitting models:
 The best model to use depends on the availability of data, the strength of relationships between the forecast variable and any explanatory variables, and the way in which the forecasts are to be used. It is common to compare two or three potential models. Each model is itself an artificial construct that is based on a set of assumptions (explicit and implicit) and usually involves one or more parameters which must be estimated using the known data. And we can use regression models , exponential smoothing methods , Box-Jenkins ARIMA models, Dynamic regression models , Hierarchical forecasting , and several advanced methods including neural networks and vector autoregression.
