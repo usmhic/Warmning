@@ -4,8 +4,8 @@
 | ------------- |-------------|
 | crowdsourced       | Data obtained from social media |
 | earth_observation       | Data gathered via satellite images |
-| hardware       | Data gathered from manually installed hardware |
-| other      | Other tools that helped analyze, visualize and improve the data. |
+| :pushpin: hardware       | Data gathered from manually installed hardware |
+| :pushpin: other      | Other tools that helped analyze, visualize and improve the data. |
 | README       | Collected data brief & folder description |
 
 This repository contains the type of data gathered, the process of getting, analyzing, visualizing and improving this data to be fully ready for the coding process which afterwards will be displayed in the user interface.
