@@ -1,6 +1,6 @@
 # Source Code
 
-## Disclaimer: Most of the source code files are currently unavailable due to security reasons.
+## Disclaimer: Most of the source code files are currently unavailable due to security and functionality reasons.
 
 Our website code is:
 1. Stored in a GitHub <a href=" https://github.com/usmhic/WarmningSite">private repository</a>.
