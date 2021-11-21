@@ -5,13 +5,13 @@
 ### 3. Visit https://warmning.co/apps/report_emergency/First_Time.html to try the report an emergency demo.
 (When using the demo just click any button at the very edge bellow without filling the text space if needed)
 ### 4. Visit https://warmning.co/apps/interactive_map to explore the interactive map (or https://dev-warmning.pantheonsite.io/services-2/).
-### 5. Check bellow warning examples.
+### 5. Check bellow warning examples:
 <p align="center">
   <img width="1000" height="635" src="https://github.com/usmhic/Warmning/blob/main/res/img/email_sms_alert/email_sms_alert.png">
 </p>
 
 ### 6. Watch Project demo (30s) at https://youtu.be/5EuCYBgb5_U.
-### 7. watch Project pitch (~5min) at https://youtu.be/TXBckrKXFsk.
+### 7. Watch Project pitch (~5min) at https://youtu.be/TXBckrKXFsk.
 ### 8. Follow us on Facebook at https://www.facebook.com/theclimatehackers.
 ### 9. Follow us on Instagram at "https://www.instagram.com/theclimatehackers/.
 ### 10. Contact us via <a href="mailto:theclimatehackers@gmail.com">email</a>.
