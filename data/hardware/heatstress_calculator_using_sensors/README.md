@@ -11,7 +11,7 @@
   <img width="720" height="450" src="https://github.com/usmhic/Warmning/blob/main/res/img/sensor_prototype/heat_index_formula.jpg">
 </p>
 
-learn more at https://en.wikipedia.org/wiki/Heat_index
+Learn more at https://en.wikipedia.org/wiki/Heat_index.
 
 ### Computer Simulation:
 <p align="center">
