@@ -1,13 +1,9 @@
-# Hardware
+# Quantum Computing
+Quantum computing will serve to profit heat forecasting on each the native scale in addition to on a grander scale for extra superior and correct warnings of heat extremes, doubtlessly saving lives and decreasing property harm.
 
-Now each type of data gathering tool has it own pros and cons. The data gathered from sensors, drones and cameras is the fastest to respond but also the most expensive.
-
-In this folder you'll find multiple data extraction methods using sensors, drones and cameras. In addition to an physical heat stress calculator system our team been able to work on.
-
-All the data gathered from hardware will be sent to our servers to be analyzed and mixed with the other types of data.
-
-Learn more at <a href="https://github.com/usmhic/Warmning/blob/main/data/hardware/other"> data/other</a>.
+Quantum computing has the potential to enhance standard numerical strategies to spice up monitoring and predictions of meteorological circumstances by dealing with big quantities of knowledge containing many variables effectively and shortly, by harnessing the computing energy of qubits, and by utilizing quantum-inspired optimization algorithms.
+Furthermore, sample recognition, essential for understanding the climate, may be enhanced using quantum machine studying.
 
 <p align="center">
-  <img width="800" height="400" src="https://github.com/usmhic/Warmning/blob/main/res/img/sensor_prototype/sensor.png">
+  <img width="1000" height="700" src="https://github.com/usmhic/Warmning/blob/main/res/img/quantum_computing/cp.png">
 </p
