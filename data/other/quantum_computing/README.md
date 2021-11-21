@@ -5,5 +5,5 @@ Quantum computing has the potential to enhance standard numerical strategies to 
 Furthermore, sample recognition, essential for understanding the climate, may be enhanced using quantum machine studying.
 
 <p align="center">
-  <img width="1000" height="700" src="https://github.com/usmhic/Warmning/blob/main/res/img/quantum_computing/cp.png">
+  <img width="1000" height="700" src="https://github.com/usmhic/Warmning/blob/main/res/img/quantum_computing/qc.png">
 </p
