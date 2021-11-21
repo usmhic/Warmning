@@ -19,6 +19,9 @@ The system is a base for sending data to our project database so that it can be 
 
 The way we came to send the data's sensors from the application to the database site is by re-reading the data inside the application and removing the existing dots (.) to replace them with a comma (,) ( because the database that we used does not accept dots ); it means that it prevents us from sending data that contains dots,  And after that adding a button that presses it automatically every 3 seconds (because the way we found to send data is by pressing the button every time you need to send information), so every time there is information, the button is automatically pressed, and the data is sent to the database.
 
+<p align="center">
+  <img width="800" height="400" src="https://github.com/usmhic/Warmning/blob/main/res/img/sensor_prototype/sensor.png">
+</p
 
 
 ### Tools Used:
