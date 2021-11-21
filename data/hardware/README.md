@@ -5,7 +5,7 @@ In this folder you'll find multiple data extraction methods using sensors, drone
 
 All the data gathered from hardware will be sent to our servers to be analyzed and mixed with the other types of data.
 
-Learn more at <a href="https://github.com/usmhic/Warmning/blob/main/data/hardware/other> data/other</a>.
+Learn more at <p href="https://github.com/usmhic/Warmning/blob/main/data/hardware/other> data/other</p>.
 
 <p align="center">
   <img width="720" height="405" src="https://github.com/usmhic/Warmning/blob/main/res/img/sensor_prototype/sensor.png">
