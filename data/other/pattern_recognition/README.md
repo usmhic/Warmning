@@ -1,7 +1,7 @@
 # Pattern Recognition
 Data mining can help us, it is generally an iterative and interactive discovery process.
-The goal of this process is to rule, associations,  changes, anomalies, statistically significant structures, and mine patterns from large amount of data. 
-Furthermore, the mined results should be valid, useful, and understandable and in our case will be the predictions of different phenomena of climate change.
+The goal of this process is to rule, associations,  changes, anomalies, statistically significant structures, and mine patterns from large amount of data.
+Furthermore, the mined results should be valid, useful, and understandable. In our case it will be the predictions heat related risks.
 
 So the objective is apply neural network and data mining techniques to build a forecasting System.
 
@@ -9,12 +9,11 @@ So the objective is apply neural network and data mining techniques to build a f
   <img width="700" height="100" src="https://github.com/usmhic/Warmning/blob/main/res/img/pattern_recognition/pattern.png">
 </p
 
-## How to build this ?
-A forecasting usually involves five basic steps:
+## A forecasting usually involves five basic steps:
 
 ### 1. Problem definition:
-Often this is the most difficult part of forecasting. Defining the problem carefully requires an understanding of the way the forecasts will be used, who requires the forecasts, and how the forecasting function fits within the organisation requiring the forecasts.
-In our case it is the climate change problem.
+Often this is the most difficult part of forecasting. Defining the problem carefully requires an understanding of the way the forecasts will be used, who requires the forecasts, and how the forecasting function fits within the organization requiring the forecasts.
+In our case it is the heat problem.
 
 ### 2. Gathering information:
 There are always at least two kinds of information required: (a) statistical data, and (b) the accumulated expertise of the people who collect the data and use the forecasts. and we have added another type of data provided by the hardware.
