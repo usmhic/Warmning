@@ -6,7 +6,8 @@
 | initialworkprocess |  Initial work process by the team |
 | wireframe       | Initial wireframe version of the website |
 | pitch       | Project pitch slides |
-| :pushpin: business_model       | Business Model Canvas |
+| business_model       | Business Model Canvas |
+| :pushpin: business_model_doc      | Business Model Canvas document|
 | README       | Project brief & folder description |
 
 1. Project demo (30s): https://youtu.be/5EuCYBgb5_U
