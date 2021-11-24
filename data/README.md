@@ -14,7 +14,7 @@ In order to show data, we need first to gather data. We focused on 3 types of da
 
 ### :star: <a href="https://github.com/usmhic/Warmning/blob/main/data/hardware">Hardware</a>
 This type of data is detected manually via sensors, drones, cameras. We managed to work on a simple  <a href="https://github.com/usmhic/Warmning/blob/main/data/hardware/heatstress_calculator_using_sensors">prototype</a> that detects temperature level using a temperature sensor and humidity level using a humidity sensor. Then calculate the heat stress based on the heat stress index mathematical model.
-The continues read data is sent to a near by device via Bluetooth or Wifi. Then uploaded to our servers to be analysed, visualized and mixed with other data.
+The continues read data is sent to a nearby device via Bluetooth or Wifi. Then uploaded to our servers to be analysed, visualized and mixed with other data.
 
 Learn more about the process and check few examples in the <a href="https://github.com/usmhic/Warmning/blob/main/data/hardware">hardware</a> folder.
 
