@@ -11,7 +11,7 @@
 
 ### 5. Visit https://warmning.co/apps/interactive_map/map.html to explore the interactive map (or https://dev-warmning.pantheonsite.io/services-2/)
 
-### 6. clock on the following<a href="https://www.arcgis.com/apps/Embed/index.html?webmap=8f894e22cc714d11ad32d480f94b2e86&extent=-67.975,-1.8862,103.4117,62.2898&zoom=true&previewImage=false&scale=true&disable_scroll=true&theme=light"> link</a> to view a second interactive map demo.
+### 6. Click on the following<a href="https://www.arcgis.com/apps/Embed/index.html?webmap=8f894e22cc714d11ad32d480f94b2e86&extent=-67.975,-1.8862,103.4117,62.2898&zoom=true&previewImage=false&scale=true&disable_scroll=true&theme=light"> link</a> to view a second interactive map demo.
 
 ### 7. Watch Project demo (30s) at https://youtu.be/5EuCYBgb5_U.
 ### 8. Watch Project pitch (~5min) at https://youtu.be/TXBckrKXFsk.
