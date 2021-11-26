@@ -8,6 +8,7 @@
 | pitch       | Project pitch slides |
 | business_model       | Business Model Canvas |
 | :pushpin: business_model_doc      | Business Model Canvas document|
+| :pushpin: climate_change      | Climate Change adaptation guide|
 | README       | Project brief & folder description |
 
 1. Project demo (30s): https://youtu.be/5EuCYBgb5_U
