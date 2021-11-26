@@ -8,8 +8,7 @@
 <p align="center">
   <img width="1000" height="635" src="https://github.com/usmhic/Warmning/blob/main/res/img/email_sms_alert/email_sms_alert.png">
 </p>
-### 5. Visit https://warmning.co/apps/interactive_map to explore the interactive map (or https://dev-warmning.pantheonsite.io/services-2/).
-<style>.embed-container {position: relative; padding-bottom: 80%; height: 0; max-width: 100%;} .embed-container iframe, .embed-container object, .embed-container iframe{position: absolute; top: 0; left: 0; width: 100%; height: 100%;} small{position: absolute; z-index: 40; bottom: 0; margin-bottom: -15px;}</style><div class="embed-container"><iframe width="500" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" title="FireMap" src="//www.arcgis.com/apps/Embed/index.html?webmap=8f894e22cc714d11ad32d480f94b2e86&extent=-67.975,-1.8862,103.4117,62.2898&zoom=true&previewImage=false&scale=true&disable_scroll=true&theme=light"></iframe></div>
+### 5. Visit https://warmning.co/apps/interactive_map/map.html to explore the interactive map (or https://dev-warmning.pantheonsite.io/services-2/).
 ### 6. Watch Project demo (30s) at https://youtu.be/5EuCYBgb5_U.
 ### 7. Watch Project pitch (~5min) at https://youtu.be/TXBckrKXFsk.
 ### 8. Follow us on Facebook at https://www.facebook.com/theclimatehackers.
